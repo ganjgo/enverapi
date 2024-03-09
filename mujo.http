@@ -1,0 +1,6 @@
+@mujo_HostAddress = http://localhost:5098
+
+GET {{mujo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
